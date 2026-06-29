@@ -1,0 +1,4 @@
+#include "resource.h"
+
+IDI_APP_ICON ICON "KB.ico"
+IDR_LOGO     RCDATA "KB-Logo.png"
